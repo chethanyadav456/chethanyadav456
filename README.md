@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chethanyadav456@gmail.com**
 
-- ⚡ Fun fact **I think I always help all.**
+- ⚡ Fun fact **I know it’s crazy, but I love to code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

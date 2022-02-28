@@ -34,3 +34,5 @@
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="chethan-yadav-703440232" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/chethan-yadav-703440232?trk=profile-badge">Chethan Yadav</a></div>
               
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chethanyadav456&show_icons=true&locale=en" alt="chethanyadav456" /></p>
+
+![Raaz's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chethanyadav456&show_icons=true&theme=tokyonight&layout=compact)

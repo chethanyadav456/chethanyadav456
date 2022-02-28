@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanyadav456&label=Profile%20views&color=0e75b6&style=flat" alt="chethanyadav456" /> </p>
+
 <a href="https://discord.com/users/801478547893387345">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/801478547893387345.png" />
 </a>

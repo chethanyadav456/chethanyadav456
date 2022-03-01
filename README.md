@@ -7,8 +7,6 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/801478547893387345.png" />
 </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethanyadav456" alt="chethanyadav456" /></a> </p>
-
 - 🔭 I’m currently working on **Apex Discord Bot**
 
 - 🌱 I’m currently learning **Cyber Security**
@@ -34,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chethanyadav456&show_icons=true&locale=en" alt="chethanyadav456" /></p>
 
 ![Raaz's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chethanyadav456&show_icons=true&theme=tokyonight&layout=compact)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethanyadav456" alt="chethanyadav456" /></a> </p>

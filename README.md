@@ -33,4 +33,4 @@
 
 ![Raaz's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chethanyadav456&show_icons=true&theme=tokyonight&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethanyadav456" alt="chethanyadav456" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=chethanyadav456" alt="chethanyadav456" /></a> </p>

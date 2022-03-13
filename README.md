@@ -34,4 +34,4 @@
 ![Raaz's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chethanyadav456&show_icons=true&theme=tokyonight&layout=compact)
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=chethanyadav456" alt="chethanyadav456" /></a> </p>
-<a href="https://app.daily.dev/chethanyadav456"><img src="https://api.daily.dev/devcards/b89f9f9b8c6a4b1cbdd4747ddfd78d02.png?r=4cq" width="400" alt="Chethan Yadav's Dev Card"/></a>
+<a href="https://app.daily.dev/chethanyadav456"><img src="https://api.daily.dev/devcards/b89f9f9b8c6a4b1cbdd4747ddfd78d02.png?r=4cq" width="200" alt="Chethan Yadav's Dev Card"/></a>

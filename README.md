@@ -34,9 +34,8 @@
               
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chethanyadav456&show_icons=true&locale=en" alt="chethanyadav456" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chethanyadav456&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" /></br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=chethanyadav456.chethanyadav456" />
-  </p>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chethanyadav456&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" />
+</p>
 
 ![Raaz's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chethanyadav456&show_icons=true&theme=tokyonight&layout=compact)
 

@@ -1,7 +1,7 @@
 <!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanyadav456&" align="center" alt="chethanyadav456" /></p> -->
 
 # 💫 About Me:
-A passionate frontend & backend developer from India. Currently Developing Discord bots and cool websites. <br>
+✨ A passionate frontend & backend developer from India. Currently Developing Discord bots and cool websites. <br>
 ❤️‍🔥 Founder of Apex Bot, Astriex Bot, Mavlina Bot, Fever Music Bot <br>🔭 I’m currently working on Astriex Discord Bot<br>👯 I’m looking to collaborate on Discord bot projects<br>🌱 I’m currently learning Java<br>⚡ Fun fact : I can steal u r girl 😎
 
 

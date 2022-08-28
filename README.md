@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 ✨ A passionate frontend & backend developer from India. Currently Developing Discord bots and cool websites. <br>
-❤️‍🔥 Founder & Developer of Apex Bot, Astriex Bot, Mavlina Bot, Fever Music Bot <br>🔭 I’m currently working on Astriex Discord Bot<br>👯 I’m looking to collaborate on Discord bot projects<br>🌱 I’m currently learning Java<br>⚡ Fun fact : I can steal u r girl 😎
+❤️‍🔥 Founder & Developer of Apex Bot, Astriex Bot, Mavlina Bot, Fever Music Bot <br>🔭 I’m currently working on Astriex Discord Bot<br>👯 I’m looking to collaborate on Discord bot projects<br>🌱 I’m currently learning Java<br>⚡ Fun fact : I can steal u r girl 😎 <br>  Discord: Raaz#2233
 
 
 ## 🌐 Socials:

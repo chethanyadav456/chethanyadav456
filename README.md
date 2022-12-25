@@ -16,6 +16,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chethanyadav456&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chethanyadav456&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31zewuxcxywj2j42gryvlzblxwlq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31zewuxcxywj2j42gryvlzblxwlq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)]]
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 

@@ -1,5 +1,5 @@
 # Hello 👋 I'm Chethan Yadav from India 🇮🇳
-# ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀💫 About Me
+# ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀💫 About Me
 - ✨ A passionate frontend & backend developer from India. Currently Developing Discord bots and cool websites. Code wizard by day, problem solver by night. Constantly pushing the limits of technology and always looking for new challenges. Driven by passion and driven to make a difference. Let's create something amazing together. 💻🚀
 - ❤️‍🔥 Founder & Developer of Apex Bot, Astriex Bot, Mavlina Bot, Fever Music Bot
 - 🔭 I’m currently working on Astriex Discord Bot
@@ -58,7 +58,7 @@
 <h1 align="center">📊 GitHub Stats</h1>
 <div align="center">
     <img src="https://github.chethanyadav.xyz/api/?username=chethanyadav456&theme=merko&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanyadav456&theme=merko&hide_border=false" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanyadav456&theme=merko&hide_border=false" alt="GitHub Streak"> <br>
     <img src="https://github.chethanyadav.xyz/api/top-langs/?username=chethanyadav456&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
     <img src="https://github.chethanyadav.xyz/api/wakatime?username=chethanyadav456&theme=merko&layot=compact">
 </div>
@@ -72,9 +72,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
 ![Visitor Count](https://profile-counter.glitch.me/chethanyadav456/count.svg)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/chethanyadav456/chethanyadav456/output/github-contribution-grid-snake.svg">
-</p>
+<img src="https://github.com/chethanyadav456/chethanyadav456/assets/46392684/56bc1e91-4b24-4ed9-ba3e-77f08f1af9d8">

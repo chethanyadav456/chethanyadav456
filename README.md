@@ -59,7 +59,7 @@
 <div align="center">
     <img src="https://github.chethanyadav.xyz/api/?username=chethanyadav456&theme=merko&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanyadav456&theme=merko&hide_border=false" alt="GitHub Streak"> <br>
-    <img src="https://github.chethanyadav.xyz/api/top-langs/?username=chethanyadav456&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
+    <img src="https://github.chethanyadav.xyz/api/top-langs/?username=chethanyadav456&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages"> <br>
     <img src="https://github.chethanyadav.xyz/api/wakatime?username=chethanyadav456&theme=merko&layot=compact">
 </div>
 <br/>

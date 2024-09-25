@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Discord bot projects
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact : I can steal u r girl 😎 
-- 🐔 Discord: raazdev
+- 🐔 Discord: everraaz
 
 <br/>
 <h1 align="center">🌐 Socials</h1>

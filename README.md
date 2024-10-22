@@ -1,7 +1,7 @@
 # Hello 👋 I'm Chethan Yadav from India 🇮🇳
 # ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀💫 About Me
 - ✨ A passionate frontend & backend developer from India. Currently Developing Discord bots and cool websites. Code wizard by day, problem solver by night. Constantly pushing the limits of technology and always looking for new challenges. Driven by passion and driven to make a difference. Let's create something amazing together. 💻🚀
-- ❤️‍🔥 Founder & Developer of Apex Bot, Astriex Bot, Mavlina Bot, Fever Music Bot
+- ❤️‍🔥 Founder & Developer of Apex Bot, Astriex Bot, Mavlina Bot, Fever Music Bot, Free Course Bot
 - 🔭 I’m currently working on Astriex Discord Bot
 - 👯 I’m looking to collaborate on Discord bot projects
 - 🌱 I’m currently learning Java

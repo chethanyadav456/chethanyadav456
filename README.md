@@ -54,6 +54,9 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
     </div>
     <br/>
+<div id="thm-profile-badge" align="center">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/raaz0x1.png" alt="Your Image Badge" />
+</div>
 
 <h1 align="center">📊 GitHub Stats</h1>
 <div align="center">

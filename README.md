@@ -62,7 +62,7 @@
 
 <h1 align="center">📊 GitHub Stats</h1>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanyadav456&theme=merko&hide_border=false" alt="GitHub Streak"> <br>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/raaz0x1.png" alt="Your Image Badge" /> <br>
 </div>
 <br/>
 

@@ -81,4 +81,5 @@
 
 <div align="center">
   <img src="/eof.svg" alt="Typing SVG"/>
+  
 </div>

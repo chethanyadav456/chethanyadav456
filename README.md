@@ -1,48 +1,39 @@
-<h1 align="center">💫 About Me</h1>
+<!-- Cyber Terminal Profile: Chethan Yadav -->
+
+<div align="center">
+  <img src="/intro.svg" alt="Typing SVG" />
+</div>
+
 
 ```bash
-┌──(chethan_yadav㉿github)-[~]
+┌──(chethan㉿yadav)-[~]
 └─$ whoami
 > Offensive Security Learner | Bug Bounty Hunter | Developer
 
-┌──(chethan_yadav㉿github)-[~]
-└─$ cat bio.txt
-🕶️  Cybersecurity enthusiast focused on offensive security, exploit development, and vulnerability research.  
-🧠  Breaking things (ethically) to understand and strengthen them.  
-🏆  Ranked in the Top 4% on TryHackMe.  
-🧩  Exploring red teaming, web exploitation & automation in bug bounty.  
-💻  Building tools, backend systems, and small-scale automation utilities.  
-⚡  Fun fact: can survive 3 days of no sleep during CTFs.  
-🐔  Discord: everraaz
-
+┌──(chethan㉿yadav)-[~]
+└─$ cat about_me.txt
+🕶️  Cybersecurity enthusiast diving deep into offensive security & vulnerability research  
+🧠  Loves breaking things (ethically) to understand them  
+🏆  Ranked Top 4% on TryHackMe  
+⚙️  Passionate about automation, red teaming & backend systems  
+⚡  Fun fact: I can survive 3 days without sleep during CTFs  
+🐔  Discord: everraaz  
 █
 ````
 
-<br/>
 
-<h1 align="center">🌐 Socials</h1>
+<h2 align="center">🌐 Connections</h2>
 
-<div align="center">
-    <a href="https://tryhackme.com/p/R4AZ" target="_blank">
-        <img src="https://img.shields.io/badge/TryHackMe-%2300BFA6.svg?logo=tryhackme&logoColor=white" alt="TryHackMe">
-    </a>
-    <a href="https://linkedin.com/in/chethan-yadav" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/chethanyadav456" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://stackoverflow.com/users/18890241" target="_blank">
-        <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stackoverflow">
-    </a>
-    <a href="https://youtube.com/c/UCcPqBRJ_8Zqa8x6qRreXBgw" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
-    </a>
-</div>
+<p align="center">
+  <a href="https://tryhackme.com/p/R4AZ"><img src="https://img.shields.io/badge/TryHackMe-00BFA6?logo=tryhackme&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/chethan-yadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/chethanyadav456"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/18890241"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://youtube.com/c/UCcPqBRJ_8Zqa8x6qRreXBgw"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
+</p>
 
-<br/>
 
-<h1 align="center">🛠️ Tech & Tools</h1>
+<h2 align="center">💻 Tools of the Trade</h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python">
@@ -60,39 +51,34 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/R4AZ.png" alt="TryHackMe Badge">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/R4AZ.png" alt="TryHackMe Badge" />
 </div>
 
-<br/>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h2 align="center">📊 System Logs</h2>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanyadav456&theme=merko&hide_border=false" alt="GitHub Streak"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanyadav456&theme=green_nur&hide_border=true&background=000000" />
 </div>
 
-<br/>
 
-[![An image of @chethanyadav456's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chethanyadav456)](https://holopin.io/@chethanyadav456)
-
-<h1 align="center">🏆 GitHub Trophies</h1>
+<h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=chethanyadav456&theme=juicyfresh&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=chethanyadav456&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
-<br/>
 
-### ✍️ Random Hacker Quote
+<h2 align="center">💬 Hacker Quote</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=merko)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</div>
 
-<br/>
 
-<img src="https://github.com/chethanyadav456/chethanyadav456/assets/46392684/56bc1e91-4b24-4ed9-ba3e-77f08f1af9d8" alt="Cybersec Banner" />
-```
-
----
+<div align="center">
+  <img src="/eof.svg" alt="Typing SVG"/>
+</div>

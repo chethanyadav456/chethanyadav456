@@ -1,82 +1,98 @@
-# Hello 👋 I'm Chethan Yadav from India 🇮🇳
-
 <h1 align="center">💫 About Me</h1>
 
-- ✨ A passionate frontend & backend developer from India. Currently Developing Discord bots and cool websites. Code wizard by day, problem solver by night. Constantly pushing the limits of technology and always looking for new challenges. Driven by passion and driven to make a difference. Let's create something amazing together. 💻🚀
-- ❤️‍🔥 Founder & Developer of Apex Bot, Astriex Bot, Mavlina Bot, Fever Music Bot, Free Course Bot
-- 🔭 I’m currently working on Astriex Discord Bot
-- 👯 I’m looking to collaborate on Discord bot projects
-- 🌱 I’m currently learning Java
-- ⚡ Fun fact : I can steal u r girl 😎 
-- 🐔 Discord: everraaz
+```bash
+┌──(chethan_yadav㉿github)-[~]
+└─$ whoami
+> Offensive Security Learner | Bug Bounty Hunter | Developer
+
+┌──(chethan_yadav㉿github)-[~]
+└─$ cat bio.txt
+🕶️  Cybersecurity enthusiast focused on offensive security, exploit development, and vulnerability research.  
+🧠  Breaking things (ethically) to understand and strengthen them.  
+🏆  Ranked in the Top 4% on TryHackMe.  
+🧩  Exploring red teaming, web exploitation & automation in bug bounty.  
+💻  Building tools, backend systems, and small-scale automation utilities.  
+⚡  Fun fact: can survive 3 days of no sleep during CTFs.  
+🐔  Discord: everraaz
+
+█
+````
 
 <br/>
+
 <h1 align="center">🌐 Socials</h1>
 
 <div align="center">
-    <a href="htttps://discord.gg/YVn6nUycHU" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord server link">
-    </a>
-    <a> 
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram link">
+    <a href="https://tryhackme.com/p/R4AZ" target="_blank">
+        <img src="https://img.shields.io/badge/TryHackMe-%2300BFA6.svg?logo=tryhackme&logoColor=white" alt="TryHackMe">
     </a>
     <a href="https://linkedin.com/in/chethan-yadav" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn link">
-    </a>
-    <a href="https://stackoverflow.com/users/18890241" target="_blank">
-        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stackoverflow link">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/chethanyadav456" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter link">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://stackoverflow.com/users/18890241" target="_blank">
+        <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stackoverflow">
     </a>
     <a href="https://youtube.com/c/UCcPqBRJ_8Zqa8x6qRreXBgw" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube link">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
     </a>
 </div>
+
 <br/>
 
-<h1 align="center">💻 Tech Stack</h1>
+<h1 align="center">🛠️ Tech & Tools</h1>
+
 <div align="center">
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" alt="TypeScript">
-    <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="Node.js">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnubash" alt="Bash">
+    <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" alt="Linux">
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6C37?style=flat-square&logo=burp-suite" alt="Burp Suite">
+    <img src="https://img.shields.io/badge/-Nmap-004170?style=flat-square&logo=nmap" alt="Nmap">
+    <img src="https://img.shields.io/badge/-Metasploit-6C3483?style=flat-square&logo=metasploit" alt="Metasploit">
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark" alt="Wireshark">
+    <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt="Java">
+    <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js" alt="Node.js">
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React">
-    <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" alt="Next.js">
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" alt="GraphQL">
-    <img src="https://img.shields.io/badge/C-311C87?style=flat-square&logo=C" alt="C">
-    <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma" alt="Prisma">
-    <img src="https://img.shields.io/badge/-Express.js-787878?style=flat-square&logo=express" alt="Express.js">
-    <img src="https://img.shields.io/badge/-html5-black?style=flat-square&logo=html5" alt="NestJS">
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB">
-    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL">
-    <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" alt="CSS3">
-    <img src="https://img.shields.io/badge/-aws-black?style=flat-square&logo=amazon" alt="AWS">
-    <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" alt="Docker">
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-    </div>
-    <br/>
-<div id="thm-profile-badge" align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/raaz0x1.png" alt="Your Image Badge" />
 </div>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<br/>
+
 <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanyadav456&theme=merko&hide_border=false" alt="GitHub Streak"> <br>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/R4AZ.png" alt="TryHackMe Badge">
 </div>
+
+<br/>
+
+<h1 align="center">📊 GitHub Stats</h1>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanyadav456&theme=merko&hide_border=false" alt="GitHub Streak"><br>
+</div>
+
 <br/>
 
 [![An image of @chethanyadav456's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chethanyadav456)](https://holopin.io/@chethanyadav456)
-
 
 <h1 align="center">🏆 GitHub Trophies</h1>
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=chethanyadav456&theme=juicyfresh&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies">
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br/>
 
-![Visitor Count](https://profile-counter.glitch.me/chethanyadav456/count.svg)
+### ✍️ Random Hacker Quote
 
-<img src="https://github.com/chethanyadav456/chethanyadav456/assets/46392684/56bc1e91-4b24-4ed9-ba3e-77f08f1af9d8">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=merko)
+
+<br/>
+
+<img src="https://github.com/chethanyadav456/chethanyadav456/assets/46392684/56bc1e91-4b24-4ed9-ba3e-77f08f1af9d8" alt="Cybersec Banner" />
+```
+
+---

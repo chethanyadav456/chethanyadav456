@@ -26,10 +26,10 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/R4AZ"><img src="https://img.shields.io/badge/TryHackMe-00BFA6?logo=tryhackme&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/chethan-yadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/chethanyadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/chethanyadav456"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/18890241"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://youtube.com/c/UCcPqBRJ_8Zqa8x6qRreXBgw"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
+  <a href="https://youtube.com/c/@AlgoRaaz"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
 </p>
 
 

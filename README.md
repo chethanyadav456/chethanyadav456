@@ -14,7 +14,7 @@
 └─$ cat about_me.txt
 🕶️  Cybersecurity enthusiast diving deep into offensive security & vulnerability research  
 🧠  Loves breaking things (ethically) to understand them  
-🏆  Ranked Top 3% on TryHackMe  
+🏆  Ranked Top 2% on TryHackMe  
 ⚙️  Passionate about automation, red teaming & backend systems  
 ⚡  Fun fact: I can survive 3 days without sleep during CTFs  
 🐔  Discord: everraaz  

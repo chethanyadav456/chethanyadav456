@@ -1,3 +1,5 @@
+
+
 <!-- Cyber Terminal Profile: Chethan Yadav -->
 
 <div align="center">
@@ -19,7 +21,7 @@
 ⚡  Fun fact: I can survive 3 days without sleep during CTFs  
 🐔  Discord: everraaz  
 █
-````
+```
 
 
 <h2 align="center">🌐 Connections</h2>

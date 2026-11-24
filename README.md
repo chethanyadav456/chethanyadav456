@@ -1,33 +1,14 @@
 <!-- Cyber Terminal Profile: Chethan Yadav -->
 
 <div align="center">
-  <img src="/intro.svg" alt="Typing SVG" />
+  <img src="/assets/banner.svg" alt="Chethan Yadav, offensive security, bug bounty, backend engineering" />
 </div>
 
-```text
-   ____ _   _ _____ _____ _   _    _    _   _
-  / ___| | | | ____|_   _| | | |  / \  | \ | |
- | |   | |_| |  _|   | | | |_| | / _ \ |  \| |
- | |___|  _  | |___  | | |  _  |/ ___ \| |\  |
-  \____|_| |_|_____| |_| |_| |_/_/   \_\_| \_|
-  offensive security  //  bug bounty  //  backend engineering
-```
+<div align="center">
+  <img src="/assets/terminal.svg" alt="Animated terminal: whoami, nmap of my skills, automate everything" width="860" />
+</div>
 
-```bash
-┌──(chethan㉿yadav)-[~]
-└─$ whoami
-> Offensive Security Learner | Bug Bounty Hunter | Developer
-
-┌──(chethan㉿yadav)-[~]
-└─$ cat about_me.txt
-🕶️  Cybersecurity enthusiast diving deep into offensive security & vulnerability research
-🧠  Loves breaking things (ethically) to understand them
-🏆  Ranked Top 2% on TryHackMe
-⚙️  Passionate about automation, red teaming & backend systems
-⚡  Fun fact: I can survive 3 days without sleep during CTFs
-🐔  Discord: everraaz
-█
-```
+<br>
 
 ```json
 // ~/profile.json
@@ -116,6 +97,18 @@ flowchart LR
 <h2 align="center">📊 System Logs</h2>
 
 <div align="center">
+  <img src="/assets/stats.svg" alt="GitHub stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="/assets/langs.svg" alt="Top languages" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanyadav456&theme=green_nur&hide_border=true&background=000000" alt="GitHub streak" />
 </div>
 
@@ -123,12 +116,6 @@ flowchart LR
 
 <div align="center">
   <img src="/snake.svg" alt="Contribution snake" />
-</div>
-
-<h2 align="center">💬 Hacker Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Quote" />
 </div>
 
 <div align="center">

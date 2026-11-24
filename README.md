@@ -39,10 +39,12 @@ flowchart LR
 
 | Layer | Stack |
 |:--|:--|
-| **Recon & Web** | ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6C37?style=flat-square&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-004170?style=flat-square&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
-| **Exploitation** | ![Metasploit](https://img.shields.io/badge/-Metasploit-6C3483?style=flat-square&logo=metasploit&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnubash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white) |
-| **Backend & Infra** | ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) |
+| **Recon & OSINT** | ![Nmap](https://img.shields.io/badge/-Nmap-004170?style=flat-square) ![Amass](https://img.shields.io/badge/-Amass-1C1C1C?style=flat-square&logo=owasp&logoColor=white) ![Subfinder](https://img.shields.io/badge/-Subfinder-0D1117?style=flat-square) ![httpx](https://img.shields.io/badge/-httpx-0D1117?style=flat-square) ![Shodan](https://img.shields.io/badge/-Shodan-B8201B?style=flat-square) ![Wayback](https://img.shields.io/badge/-Wayback-0D1117?style=flat-square&logo=internetarchive&logoColor=white) |
+| **Web & API Testing** | ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6C37?style=flat-square&logo=burp-suite&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white) ![ffuf](https://img.shields.io/badge/-ffuf-0D1117?style=flat-square&logo=gnubash&logoColor=white) ![Gobuster](https://img.shields.io/badge/-Gobuster-0D1117?style=flat-square&logo=gnubash&logoColor=white) ![sqlmap](https://img.shields.io/badge/-sqlmap-0D1117?style=flat-square&logo=gnubash&logoColor=white) ![Nuclei](https://img.shields.io/badge/-Nuclei-6C3FC5?style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Exploitation & Post** | ![Metasploit](https://img.shields.io/badge/-Metasploit-6C3483?style=flat-square&logo=metasploit&logoColor=white) ![Hydra](https://img.shields.io/badge/-Hydra-0D1117?style=flat-square&logo=gnubash&logoColor=white) ![John](https://img.shields.io/badge/-John-0D1117?style=flat-square&logo=gnubash&logoColor=white) ![Hashcat](https://img.shields.io/badge/-Hashcat-0D1117?style=flat-square&logo=gnubash&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) |
+| **Network & RE** | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Ghidra](https://img.shields.io/badge/-Ghidra-B8201B?style=flat-square) ![Autopsy](https://img.shields.io/badge/-Autopsy-0D1117?style=flat-square&logo=gnubash&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnubash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **Backend & Infra** | ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 </div>
 
@@ -82,12 +84,18 @@ flowchart LR
 
 <h2 align="center">🌐 Connections</h2>
 
+```bash
+└─$ ssh -i ~/.ssh/id_ed25519 chethan@everywhere
+Welcome. Pick a channel:
+```
+
 <p align="center">
-  <a href="https://tryhackme.com/p/R4AZ"><img src="https://img.shields.io/badge/TryHackMe-00BFA6?logo=tryhackme&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/chethanyadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/0xChethan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/18890241"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://youtube.com/c/@AlgoRaaz"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/R4AZ"><img src="https://img.shields.io/badge/TryHackMe-R4AZ-00c853?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="TryHackMe" /></a>
+  <a href="https://linkedin.com/in/chethanyadav"><img src="https://img.shields.io/badge/LinkedIn-chethanyadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="https://x.com/0xChethan"><img src="https://img.shields.io/badge/X-0xChethan-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X" /></a>
+  <a href="https://stackoverflow.com/users/18890241"><img src="https://img.shields.io/badge/StackOverflow-18890241-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0d1117" alt="StackOverflow" /></a>
+  <a href="https://youtube.com/c/@AlgoRaaz"><img src="https://img.shields.io/badge/YouTube-%40AlgoRaaz-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" /></a>
+  <img src="https://img.shields.io/badge/Discord-everraaz-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" />
 </p>
 
 <div align="center">

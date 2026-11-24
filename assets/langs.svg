@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="248" viewBox="0 0 900 248" font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace">
+<style>@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}</style>
+<rect x=".5" y=".5" width="899" height="247" rx="12" fill="#0d1117" stroke="#00ff41" stroke-opacity=".35"/>
+<text x="24" y="30" font-size="13" fill="#00ff41">$ git log --stat | top-languages --public</text>
+<text x="24" y="64" font-size="13" fill="#c9d1d9">JavaScript</text>
+<rect x="190" y="52" width="560" height="14" rx="7" fill="#161b22"/>
+<rect x="190" y="52" width="359" height="14" rx="7" fill="#f1e05a" style="transform-origin:190px 0;animation:grow 1.2s ease-out 0.0s both"/>
+<text x="768" y="64" font-size="13" fill="#00ff41">64.2%</text><text x="24" y="94" font-size="13" fill="#c9d1d9">Go</text>
+<rect x="190" y="82" width="560" height="14" rx="7" fill="#161b22"/>
+<rect x="190" y="82" width="73" height="14" rx="7" fill="#00ADD8" style="transform-origin:190px 0;animation:grow 1.2s ease-out 0.1s both"/>
+<text x="768" y="94" font-size="13" fill="#00ff41">13.0%</text><text x="24" y="124" font-size="13" fill="#c9d1d9">Python</text>
+<rect x="190" y="112" width="560" height="14" rx="7" fill="#161b22"/>
+<rect x="190" y="112" width="67" height="14" rx="7" fill="#3572A5" style="transform-origin:190px 0;animation:grow 1.2s ease-out 0.2s both"/>
+<text x="768" y="124" font-size="13" fill="#00ff41">12.0%</text><text x="24" y="154" font-size="13" fill="#c9d1d9">C</text>
+<rect x="190" y="142" width="560" height="14" rx="7" fill="#161b22"/>
+<rect x="190" y="142" width="30" height="14" rx="7" fill="#555555" style="transform-origin:190px 0;animation:grow 1.2s ease-out 0.3s both"/>
+<text x="768" y="154" font-size="13" fill="#00ff41">5.4%</text><text x="24" y="184" font-size="13" fill="#c9d1d9">Shell</text>
+<rect x="190" y="172" width="560" height="14" rx="7" fill="#161b22"/>
+<rect x="190" y="172" width="20" height="14" rx="7" fill="#89e051" style="transform-origin:190px 0;animation:grow 1.2s ease-out 0.4s both"/>
+<text x="768" y="184" font-size="13" fill="#00ff41">3.6%</text><text x="24" y="214" font-size="13" fill="#c9d1d9">TypeScript</text>
+<rect x="190" y="202" width="560" height="14" rx="7" fill="#161b22"/>
+<rect x="190" y="202" width="11" height="14" rx="7" fill="#3178C6" style="transform-origin:190px 0;animation:grow 1.2s ease-out 0.5s both"/>
+<text x="768" y="214" font-size="13" fill="#00ff41">1.9%</text></svg>
